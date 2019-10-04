@@ -1,0 +1,4 @@
+docker container ls
+docker container exec -it a8c45f71d647 bash
+cat logs.txt
+Docker is easy
